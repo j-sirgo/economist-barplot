@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 24px;
+  font-family: system-ui, sans-serif;
+  background: #fff;
+}
+
+/* the chart block: title, subtitle, svg, footer */
+.chart {
+  margin: 0;
+}
+
+.chart-flag {
+  width: 40px;
+  height: 10px;
+  background: #e3120b;
+}
+
+.chart-title {
+  margin: 12px 0 4px;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.chart-subtitle {
+  margin: 0 0 8px;
+  font-size: 16px;
+}
+
+.chart-footer {
+  font-size: 12px;
+  color: #666;
+}
+
+.chart-footer p {
+  margin: 4px 0 0;
+}
+
+.chart-brand {
+  font-weight: 700;
+}
